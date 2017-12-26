@@ -1,0 +1,8 @@
+.elem{
+	height: 150px;
+	background-color: blue;
+}
+
+.col.header .elem{
+	height: 200px;
+}
